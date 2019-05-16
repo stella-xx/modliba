@@ -1,4 +1,4 @@
-module github.com/stella-xx/modliba
+module github.com/stella-xx/modliba/v2
 
 go 1.12
 
